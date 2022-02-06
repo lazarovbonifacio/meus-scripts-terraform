@@ -1,0 +1,4 @@
+auth/
+*.tfstate*
+*.tfvars
+.terraform*
